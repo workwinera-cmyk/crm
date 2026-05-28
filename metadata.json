@@ -1,0 +1,6 @@
+{
+  "name": "Apex CRM",
+  "description": "A modern, premium CRM app for real-time lead management, pipeline drag-and-drop simulation, interactive dashboard analytics, and follow-up alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
